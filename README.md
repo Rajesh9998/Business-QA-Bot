@@ -3,7 +3,7 @@
 >Business QA Bot is an advanced Retrieval Augmented Generation (RAG) based Question-Answering bot designed specifically for business applications. This project showcases innovative techniques to optimize RAG models, enhancing performance, efficiency, and output quality for business-oriented queries.
 
 
-**Preview:**
+## Preview:
 
 ![](Examples/image1.png)
 
