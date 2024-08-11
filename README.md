@@ -2,6 +2,12 @@
 
 >Business QA Bot is an advanced Retrieval Augmented Generation (RAG) based Question-Answering bot designed specifically for business applications. This project showcases innovative techniques to optimize RAG models, enhancing performance, efficiency, and output quality for business-oriented queries.
 
+
+**Preview:**
+
+![](Examples/image1.png)
+
+
 ## About RAG
 
 Retrieval Augmented Generation (RAG) is a powerful approach in natural language processing that combines the strengths of large language models with the ability to access and leverage external knowledge. RAG models first retrieve relevant information from a knowledge base and then use this information to generate more accurate and contextually appropriate responses.
@@ -31,5 +37,5 @@ RAG-based QA bots offer several key advantages in business settings:
 - Google for the Gemini-1.5-Flash model
 - Groq for their LPU™ AI inference technology
 - Firecrawl for their efficient web crawling API
-
+- Pinecone for the Vector Databse provider
 
